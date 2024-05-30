@@ -1,5 +1,6 @@
 [
     {
+        "key": "RCP Average2024-05-06",
         "pollster": "RCP Average",
         "range": "5/6 - 5/28",
         "starts": "2024-05-06",
@@ -17,6 +18,7 @@
         "leadingBy": 0.9
     },
     {
+        "key": "NPR/PBS/Marist2024-05-21",
         "pollster": "NPR/PBS/Marist",
         "range": "5/21 - 5/23",
         "starts": "2024-05-21",
@@ -34,6 +36,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Morning Consult2024-05-26",
         "pollster": "Morning Consult",
         "range": "5/26 - 5/28",
         "starts": "2024-05-26",
@@ -51,6 +54,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Emerson2024-05-21",
         "pollster": "Emerson",
         "range": "5/21 - 5/23",
         "starts": "2024-05-21",
@@ -68,6 +72,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Quinnipiac2024-05-16",
         "pollster": "Quinnipiac",
         "range": "5/16 - 5/20",
         "starts": "2024-05-16",
@@ -85,6 +90,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Harvard-Harris2024-05-15",
         "pollster": "Harvard-Harris",
         "range": "5/15 - 5/16",
         "starts": "2024-05-15",
@@ -102,6 +108,7 @@
         "leadingBy": 6
     },
     {
+        "key": "FOX News2024-05-10",
         "pollster": "FOX News",
         "range": "5/10 - 5/13",
         "starts": "2024-05-10",
@@ -119,6 +126,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Yahoo News2024-05-10",
         "pollster": "Yahoo News",
         "range": "5/10 - 5/13",
         "starts": "2024-05-10",
@@ -136,6 +144,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Marquette2024-05-06",
         "pollster": "Marquette",
         "range": "5/6 - 5/15",
         "starts": "2024-05-06",
@@ -153,6 +162,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Reuters/Ipsos2024-05-07",
         "pollster": "Reuters/Ipsos",
         "range": "5/7 - 5/14",
         "starts": "2024-05-07",
@@ -170,91 +180,7 @@
         "leadingBy": 0
     },
     {
-        "pollster": "RCP Average",
-        "range": "5/6 - 5/28",
-        "starts": "2024-05-06",
-        "ends": "2024-05-28",
-        "sample": "—",
-        "sampleNumber": 0,
-        "sampleGroup": "—",
-        "registeredOnly": false,
-        "likelyOnly": false,
-        "allPolled": false,
-        "margin": "—",
-        "trump": "47.6",
-        "biden": "46.7",
-        "leading": "Trump",
-        "leadingBy": 0.9
-    },
-    {
-        "pollster": "NPR/PBS/Marist",
-        "range": "5/21 - 5/23",
-        "starts": "2024-05-21",
-        "ends": "2024-05-23",
-        "sample": "1122 RV",
-        "sampleNumber": 1122,
-        "sampleGroup": "RV",
-        "registeredOnly": true,
-        "likelyOnly": false,
-        "allPolled": false,
-        "margin": "3.7",
-        "trump": "48",
-        "biden": "50",
-        "leading": "Biden",
-        "leadingBy": 2
-    },
-    {
-        "pollster": "Morning Consult",
-        "range": "5/26 - 5/28",
-        "starts": "2024-05-26",
-        "ends": "2024-05-28",
-        "sample": "10721 RV",
-        "sampleNumber": 10721,
-        "sampleGroup": "RV",
-        "registeredOnly": true,
-        "likelyOnly": false,
-        "allPolled": false,
-        "margin": "1.0",
-        "trump": "44",
-        "biden": "42",
-        "leading": "Trump",
-        "leadingBy": 2
-    },
-    {
-        "pollster": "Emerson",
-        "range": "5/21 - 5/23",
-        "starts": "2024-05-21",
-        "ends": "2024-05-23",
-        "sample": "1000 RV",
-        "sampleNumber": 1000,
-        "sampleGroup": "RV",
-        "registeredOnly": true,
-        "likelyOnly": false,
-        "allPolled": false,
-        "margin": "2.9",
-        "trump": "46",
-        "biden": "44",
-        "leading": "Trump",
-        "leadingBy": 2
-    },
-    {
-        "pollster": "Quinnipiac",
-        "range": "5/16 - 5/20",
-        "starts": "2024-05-16",
-        "ends": "2024-05-20",
-        "sample": "1374 RV",
-        "sampleNumber": 1374,
-        "sampleGroup": "RV",
-        "registeredOnly": true,
-        "likelyOnly": false,
-        "allPolled": false,
-        "margin": "2.6",
-        "trump": "47",
-        "biden": "48",
-        "leading": "Biden",
-        "leadingBy": 1
-    },
-    {
+        "key": "Morning Consult2024-05-17",
         "pollster": "Morning Consult",
         "range": "5/17 - 5/19",
         "starts": "2024-05-17",
@@ -272,57 +198,7 @@
         "leadingBy": 1
     },
     {
-        "pollster": "Harvard-Harris",
-        "range": "5/15 - 5/16",
-        "starts": "2024-05-15",
-        "ends": "2024-05-16",
-        "sample": "1660 RV",
-        "sampleNumber": 1660,
-        "sampleGroup": "RV",
-        "registeredOnly": true,
-        "likelyOnly": false,
-        "allPolled": false,
-        "margin": "—",
-        "trump": "53",
-        "biden": "47",
-        "leading": "Trump",
-        "leadingBy": 6
-    },
-    {
-        "pollster": "FOX News",
-        "range": "5/10 - 5/13",
-        "starts": "2024-05-10",
-        "ends": "2024-05-13",
-        "sample": "1126 RV",
-        "sampleNumber": 1126,
-        "sampleGroup": "RV",
-        "registeredOnly": true,
-        "likelyOnly": false,
-        "allPolled": false,
-        "margin": "4.0",
-        "trump": "49",
-        "biden": "48",
-        "leading": "Trump",
-        "leadingBy": 1
-    },
-    {
-        "pollster": "Yahoo News",
-        "range": "5/10 - 5/13",
-        "starts": "2024-05-10",
-        "ends": "2024-05-13",
-        "sample": "1202 RV",
-        "sampleNumber": 1202,
-        "sampleGroup": "RV",
-        "registeredOnly": true,
-        "likelyOnly": false,
-        "allPolled": false,
-        "margin": "—",
-        "trump": "45",
-        "biden": "45",
-        "leading": "Tie",
-        "leadingBy": 0
-    },
-    {
+        "key": "Morning Consult2024-05-10",
         "pollster": "Morning Consult",
         "range": "5/10 - 5/12",
         "starts": "2024-05-10",
@@ -340,40 +216,7 @@
         "leadingBy": 1
     },
     {
-        "pollster": "Marquette",
-        "range": "5/6 - 5/15",
-        "starts": "2024-05-06",
-        "ends": "2024-05-15",
-        "sample": "811 RV",
-        "sampleNumber": 811,
-        "sampleGroup": "RV",
-        "registeredOnly": true,
-        "likelyOnly": false,
-        "allPolled": false,
-        "margin": "4.6",
-        "trump": "50",
-        "biden": "50",
-        "leading": "Tie",
-        "leadingBy": 0
-    },
-    {
-        "pollster": "Reuters/Ipsos",
-        "range": "5/7 - 5/14",
-        "starts": "2024-05-07",
-        "ends": "2024-05-14",
-        "sample": "3208 RV",
-        "sampleNumber": 3208,
-        "sampleGroup": "RV",
-        "registeredOnly": true,
-        "likelyOnly": false,
-        "allPolled": false,
-        "margin": "2.0",
-        "trump": "46",
-        "biden": "46",
-        "leading": "Tie",
-        "leadingBy": 0
-    },
-    {
+        "key": "Morning Consult2024-05-03",
         "pollster": "Morning Consult",
         "range": "5/3 - 5/5",
         "starts": "2024-05-03",
@@ -391,6 +234,7 @@
         "leadingBy": 1
     },
     {
+        "key": "I&I/TIPP2024-05-01",
         "pollster": "I&I/TIPP",
         "range": "5/1 - 5/3",
         "starts": "2024-05-01",
@@ -408,6 +252,7 @@
         "leadingBy": 2
     },
     {
+        "key": "ABC News/Ipsos2024-04-25",
         "pollster": "ABC News/Ipsos",
         "range": "4/25 - 4/30",
         "starts": "2024-04-25",
@@ -425,6 +270,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Morning Consult2024-04-26",
         "pollster": "Morning Consult",
         "range": "4/26 - 4/28",
         "starts": "2024-04-26",
@@ -442,6 +288,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Harvard-Harris2024-04-24",
         "pollster": "Harvard-Harris",
         "range": "4/24 - 4/25",
         "starts": "2024-04-24",
@@ -459,6 +306,7 @@
         "leadingBy": 4
     },
     {
+        "key": "NPR/PBS/Marist2024-04-22",
         "pollster": "NPR/PBS/Marist",
         "range": "4/22 - 4/25",
         "starts": "2024-04-22",
@@ -476,6 +324,7 @@
         "leadingBy": 2
     },
     {
+        "key": "CNN2024-04-18",
         "pollster": "CNN",
         "range": "4/18 - 4/23",
         "starts": "2024-04-18",
@@ -493,6 +342,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Quinnipiac2024-04-18",
         "pollster": "Quinnipiac",
         "range": "4/18 - 4/22",
         "starts": "2024-04-18",
@@ -510,6 +360,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2024-04-19",
         "pollster": "Morning Consult",
         "range": "4/19 - 4/21",
         "starts": "2024-04-19",
@@ -527,6 +378,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Marist2024-04-16",
         "pollster": "Marist",
         "range": "4/16 - 4/18",
         "starts": "2024-04-16",
@@ -544,6 +396,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Emerson2024-04-16",
         "pollster": "Emerson",
         "range": "4/16 - 4/17",
         "starts": "2024-04-16",
@@ -561,6 +414,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Morning Consult2024-04-15",
         "pollster": "Morning Consult",
         "range": "4/15 - 4/17",
         "starts": "2024-04-15",
@@ -578,6 +432,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Daily Kos/Civiqs2024-04-13",
         "pollster": "Daily Kos/Civiqs",
         "range": "4/13 - 4/16",
         "starts": "2024-04-13",
@@ -595,6 +450,7 @@
         "leadingBy": 1
     },
     {
+        "key": "NBC News2024-04-12",
         "pollster": "NBC News",
         "range": "4/12 - 4/16",
         "starts": "2024-04-12",
@@ -612,6 +468,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Yahoo News2024-04-11",
         "pollster": "Yahoo News",
         "range": "4/11 - 4/15",
         "starts": "2024-04-11",
@@ -629,6 +486,7 @@
         "leadingBy": 0
     },
     {
+        "key": "NY Times/Siena2024-04-07",
         "pollster": "NY Times/Siena",
         "range": "4/7 - 4/11",
         "starts": "2024-04-07",
@@ -646,6 +504,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Morning Consult2024-04-05",
         "pollster": "Morning Consult",
         "range": "4/5 - 4/7",
         "starts": "2024-04-05",
@@ -663,6 +522,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Reuters/Ipsos2024-04-03",
         "pollster": "Reuters/Ipsos",
         "range": "4/3 - 4/7",
         "starts": "2024-04-03",
@@ -680,6 +540,7 @@
         "leadingBy": 4
     },
     {
+        "key": "I&I/TIPP2024-04-03",
         "pollster": "I&I/TIPP",
         "range": "4/3 - 4/5",
         "starts": "2024-04-03",
@@ -697,6 +558,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Emerson2024-04-02",
         "pollster": "Emerson",
         "range": "4/2 - 4/3",
         "starts": "2024-04-02",
@@ -714,6 +576,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Rasmussen Reports2024-03-31",
         "pollster": "Rasmussen Reports",
         "range": "3/31 - 4/2",
         "starts": "2024-03-31",
@@ -731,6 +594,7 @@
         "leadingBy": 8
     },
     {
+        "key": "Morning Consult2024-03-29",
         "pollster": "Morning Consult",
         "range": "3/29 - 3/31",
         "starts": "2024-03-29",
@@ -748,6 +612,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Data for Progress (D)**2024-03-27",
         "pollster": "Data for Progress (D)**",
         "range": "3/27 - 3/29",
         "starts": "2024-03-27",
@@ -765,6 +630,7 @@
         "leadingBy": 1
     },
     {
+        "key": "NPR/PBS/Marist2024-03-25",
         "pollster": "NPR/PBS/Marist",
         "range": "3/25 - 3/28",
         "starts": "2024-03-25",
@@ -782,6 +648,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Forbes/HarrisX2024-03-25",
         "pollster": "Forbes/HarrisX",
         "range": "3/25 - 3/25",
         "starts": "2024-03-25",
@@ -799,6 +666,7 @@
         "leadingBy": 0
     },
     {
+        "key": "FOX News2024-03-22",
         "pollster": "FOX News",
         "range": "3/22 - 3/25",
         "starts": "2024-03-22",
@@ -816,6 +684,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Quinnipiac2024-03-21",
         "pollster": "Quinnipiac",
         "range": "3/21 - 3/25",
         "starts": "2024-03-21",
@@ -833,6 +702,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Marquette2024-03-18",
         "pollster": "Marquette",
         "range": "3/18 - 3/28",
         "starts": "2024-03-18",
@@ -850,6 +720,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2024-03-22",
         "pollster": "Morning Consult",
         "range": "3/22 - 3/24",
         "starts": "2024-03-22",
@@ -867,6 +738,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Harvard-Harris2024-03-20",
         "pollster": "Harvard-Harris",
         "range": "3/20 - 3/21",
         "starts": "2024-03-20",
@@ -884,6 +756,7 @@
         "leadingBy": 2
     },
     {
+        "key": "CNBC2024-03-15",
         "pollster": "CNBC",
         "range": "3/15 - 3/19",
         "starts": "2024-03-15",
@@ -901,6 +774,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Morning Consult2024-03-15",
         "pollster": "Morning Consult",
         "range": "3/15 - 3/17",
         "starts": "2024-03-15",
@@ -918,6 +792,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Grinnell/Selzer2024-03-11",
         "pollster": "Grinnell/Selzer",
         "range": "3/11 - 3/17",
         "starts": "2024-03-11",
@@ -935,6 +810,7 @@
         "leadingBy": 7
     },
     {
+        "key": "Economist/YouGov2024-03-10",
         "pollster": "Economist/YouGov",
         "range": "3/10 - 3/12",
         "starts": "2024-03-10",
@@ -952,6 +828,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Daily Kos/Civiqs2024-03-09",
         "pollster": "Daily Kos/Civiqs",
         "range": "3/9 - 3/12",
         "starts": "2024-03-09",
@@ -969,6 +846,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Reuters/Ipsos2024-03-07",
         "pollster": "Reuters/Ipsos",
         "range": "3/7 - 3/13",
         "starts": "2024-03-07",
@@ -986,6 +864,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Yahoo News2024-03-08",
         "pollster": "Yahoo News",
         "range": "3/8 - 3/11",
         "starts": "2024-03-08",
@@ -1003,6 +882,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Forbes/HarrisX2024-03-08",
         "pollster": "Forbes/HarrisX",
         "range": "3/8 - 3/10",
         "starts": "2024-03-08",
@@ -1020,6 +900,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Morning Consult2024-03-08",
         "pollster": "Morning Consult",
         "range": "3/8 - 3/10",
         "starts": "2024-03-08",
@@ -1037,6 +918,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Rasmussen Reports2024-03-05",
         "pollster": "Rasmussen Reports",
         "range": "3/5 - 3/7",
         "starts": "2024-03-05",
@@ -1054,6 +936,7 @@
         "leadingBy": 8
     },
     {
+        "key": "Emerson2024-03-05",
         "pollster": "Emerson",
         "range": "3/5 - 3/6",
         "starts": "2024-03-05",
@@ -1071,6 +954,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Economist/YouGov2024-03-03",
         "pollster": "Economist/YouGov",
         "range": "3/3 - 3/5",
         "starts": "2024-03-03",
@@ -1088,6 +972,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Morning Consult2024-03-01",
         "pollster": "Morning Consult",
         "range": "3/1 - 3/3",
         "starts": "2024-03-01",
@@ -1105,6 +990,7 @@
         "leadingBy": 1
     },
     {
+        "key": "CBS News2024-02-28",
         "pollster": "CBS News",
         "range": "2/28 - 3/1",
         "starts": "2024-02-28",
@@ -1122,6 +1008,7 @@
         "leadingBy": 4
     },
     {
+        "key": "I&I/TIPP2024-02-28",
         "pollster": "I&I/TIPP",
         "range": "2/28 - 3/1",
         "starts": "2024-02-28",
@@ -1139,6 +1026,7 @@
         "leadingBy": 1
     },
     {
+        "key": "NY Times/Siena2024-02-25",
         "pollster": "NY Times/Siena",
         "range": "2/25 - 2/28",
         "starts": "2024-02-25",
@@ -1156,6 +1044,7 @@
         "leadingBy": 4
     },
     {
+        "key": "FOX News2024-02-25",
         "pollster": "FOX News",
         "range": "2/25 - 2/28",
         "starts": "2024-02-25",
@@ -1173,6 +1062,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Forbes/HarrisX2024-02-24",
         "pollster": "Forbes/HarrisX",
         "range": "2/24 - 2/28",
         "starts": "2024-02-24",
@@ -1190,6 +1080,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Economist/YouGov2024-02-25",
         "pollster": "Economist/YouGov",
         "range": "2/25 - 2/27",
         "starts": "2024-02-25",
@@ -1207,6 +1098,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Wall Street Journal2024-02-21",
         "pollster": "Wall Street Journal",
         "range": "2/21 - 2/28",
         "starts": "2024-02-21",
@@ -1224,6 +1116,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Morning Consult2024-02-23",
         "pollster": "Morning Consult",
         "range": "2/23 - 2/25",
         "starts": "2024-02-23",
@@ -1241,6 +1134,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Harvard-Harris2024-02-21",
         "pollster": "Harvard-Harris",
         "range": "2/21 - 2/22",
         "starts": "2024-02-21",
@@ -1258,6 +1152,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Economist/YouGov2024-02-18",
         "pollster": "Economist/YouGov",
         "range": "2/18 - 2/20",
         "starts": "2024-02-18",
@@ -1275,6 +1170,7 @@
         "leadingBy": 1
     },
     {
+        "key": "HarrisX**2024-02-20",
         "pollster": "HarrisX**",
         "range": "2/20 - 2/22",
         "starts": "2024-02-20",
@@ -1292,6 +1188,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Morning Consult2024-02-17",
         "pollster": "Morning Consult",
         "range": "2/17 - 2/19",
         "starts": "2024-02-17",
@@ -1309,6 +1206,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Quinnipiac2024-02-15",
         "pollster": "Quinnipiac",
         "range": "2/15 - 2/19",
         "starts": "2024-02-15",
@@ -1326,6 +1224,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Rasmussen Reports2024-02-13",
         "pollster": "Rasmussen Reports",
         "range": "2/13 - 2/15",
         "starts": "2024-02-13",
@@ -1343,6 +1242,7 @@
         "leadingBy": 6
     },
     {
+        "key": "HarrisX**2024-02-12",
         "pollster": "HarrisX**",
         "range": "2/12 - 2/16",
         "starts": "2024-02-12",
@@ -1360,6 +1260,7 @@
         "leadingBy": 8
     },
     {
+        "key": "Emerson2024-02-13",
         "pollster": "Emerson",
         "range": "2/13 - 2/14",
         "starts": "2024-02-13",
@@ -1377,6 +1278,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Economist/YouGov2024-02-11",
         "pollster": "Economist/YouGov",
         "range": "2/11 - 2/13",
         "starts": "2024-02-11",
@@ -1394,6 +1296,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Marquette2024-02-05",
         "pollster": "Marquette",
         "range": "2/5 - 2/15",
         "starts": "2024-02-05",
@@ -1411,6 +1314,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Morning Consult2024-02-09",
         "pollster": "Morning Consult",
         "range": "2/9 - 2/11",
         "starts": "2024-02-09",
@@ -1428,6 +1332,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Economist/YouGov2024-02-04",
         "pollster": "Economist/YouGov",
         "range": "2/4 - 2/6",
         "starts": "2024-02-04",
@@ -1445,6 +1350,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Morning Consult2024-02-04",
         "pollster": "Morning Consult",
         "range": "2/4 - 2/6",
         "starts": "2024-02-04",
@@ -1462,6 +1368,7 @@
         "leadingBy": 5
     },
     {
+        "key": "I&I/TIPP2024-01-31",
         "pollster": "I&I/TIPP",
         "range": "1/31 - 2/2",
         "starts": "2024-01-31",
@@ -1479,6 +1386,7 @@
         "leadingBy": 2
     },
     {
+        "key": "NPR/PBS/Marist2024-01-29",
         "pollster": "NPR/PBS/Marist",
         "range": "1/29 - 2/1",
         "starts": "2024-01-29",
@@ -1496,6 +1404,7 @@
         "leadingBy": 1
     },
     {
+        "key": "CNN2024-01-25",
         "pollster": "CNN",
         "range": "1/25 - 1/30",
         "starts": "2024-01-25",
@@ -1513,6 +1422,7 @@
         "leadingBy": 4
     },
     {
+        "key": "NBC News2024-01-26",
         "pollster": "NBC News",
         "range": "1/26 - 1/30",
         "starts": "2024-01-26",
@@ -1530,6 +1440,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Quinnipiac2024-01-25",
         "pollster": "Quinnipiac",
         "range": "1/25 - 1/29",
         "starts": "2024-01-25",
@@ -1547,6 +1458,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Yahoo News2024-01-25",
         "pollster": "Yahoo News",
         "range": "1/25 - 1/29",
         "starts": "2024-01-25",
@@ -1564,6 +1476,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Emerson2024-01-26",
         "pollster": "Emerson",
         "range": "1/26 - 1/29",
         "starts": "2024-01-26",
@@ -1581,6 +1494,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Economist/YouGov2024-01-28",
         "pollster": "Economist/YouGov",
         "range": "1/28 - 1/30",
         "starts": "2024-01-28",
@@ -1598,6 +1512,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Daily Kos/Civiqs2024-01-27",
         "pollster": "Daily Kos/Civiqs",
         "range": "1/27 - 1/30",
         "starts": "2024-01-27",
@@ -1615,6 +1530,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2024-01-26",
         "pollster": "Morning Consult",
         "range": "1/26 - 1/28",
         "starts": "2024-01-26",
@@ -1632,6 +1548,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Reuters/Ipsos2024-01-22",
         "pollster": "Reuters/Ipsos",
         "range": "1/22 - 1/24",
         "starts": "2024-01-22",
@@ -1649,6 +1566,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Economist/YouGov2024-01-21",
         "pollster": "Economist/YouGov",
         "range": "1/21 - 1/23",
         "starts": "2024-01-21",
@@ -1666,6 +1584,7 @@
         "leadingBy": 1
     },
     {
+        "key": "The Messenger/HarrisX2024-01-17",
         "pollster": "The Messenger/HarrisX",
         "range": "1/17 - 1/21",
         "starts": "2024-01-17",
@@ -1683,6 +1602,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Morning Consult2024-01-19",
         "pollster": "Morning Consult",
         "range": "1/19 - 1/21",
         "starts": "2024-01-19",
@@ -1700,6 +1620,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Harvard-Harris2024-01-17",
         "pollster": "Harvard-Harris",
         "range": "1/17 - 1/18",
         "starts": "2024-01-17",
@@ -1717,6 +1638,7 @@
         "leadingBy": 6
     },
     {
+        "key": "The Messenger/HarrisX2024-01-16",
         "pollster": "The Messenger/HarrisX",
         "range": "1/16 - 1/17",
         "starts": "2024-01-16",
@@ -1734,6 +1656,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Economist/YouGov2024-01-14",
         "pollster": "Economist/YouGov",
         "range": "1/14 - 1/16",
         "starts": "2024-01-14",
@@ -1751,6 +1674,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Morning Consult2024-01-13",
         "pollster": "Morning Consult",
         "range": "1/13 - 1/15",
         "starts": "2024-01-13",
@@ -1768,6 +1692,7 @@
         "leadingBy": 2
     },
     {
+        "key": "CBS News2024-01-10",
         "pollster": "CBS News",
         "range": "1/10 - 1/12",
         "starts": "2024-01-10",
@@ -1785,6 +1710,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Rasmussen Reports2024-01-07",
         "pollster": "Rasmussen Reports",
         "range": "1/7 - 1/9",
         "starts": "2024-01-07",
@@ -1802,6 +1728,7 @@
         "leadingBy": 8
     },
     {
+        "key": "Economist/YouGov2024-01-07",
         "pollster": "Economist/YouGov",
         "range": "1/7 - 1/9",
         "starts": "2024-01-07",
@@ -1819,6 +1746,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Reuters/Ipsos2024-01-03",
         "pollster": "Reuters/Ipsos",
         "range": "1/3 - 1/9",
         "starts": "2024-01-03",
@@ -1836,6 +1764,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2024-01-05",
         "pollster": "Morning Consult",
         "range": "1/5 - 1/7",
         "starts": "2024-01-05",
@@ -1853,6 +1782,7 @@
         "leadingBy": 1
     },
     {
+        "key": "I&I/TIPP2024-01-03",
         "pollster": "I&I/TIPP",
         "range": "1/3 - 1/5",
         "starts": "2024-01-03",
@@ -1870,6 +1800,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Economist/YouGov2023-12-31",
         "pollster": "Economist/YouGov",
         "range": "12/31 - 1/2",
         "starts": "2023-12-31",
@@ -1887,6 +1818,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2023-12-30",
         "pollster": "Morning Consult",
         "range": "12/30 - 1/1",
         "starts": "2023-12-30",
@@ -1904,6 +1836,7 @@
         "leadingBy": 1
     },
     {
+        "key": "USA Today/Suffolk2023-12-26",
         "pollster": "USA Today/Suffolk",
         "range": "12/26 - 12/29",
         "starts": "2023-12-26",
@@ -1921,6 +1854,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Economist/YouGov2023-12-16",
         "pollster": "Economist/YouGov",
         "range": "12/16 - 12/18",
         "starts": "2023-12-16",
@@ -1938,6 +1872,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2023-12-15",
         "pollster": "Morning Consult",
         "range": "12/15 - 12/17",
         "starts": "2023-12-15",
@@ -1955,6 +1890,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Quinnipiac2023-12-14",
         "pollster": "Quinnipiac",
         "range": "12/14 - 12/18",
         "starts": "2023-12-14",
@@ -1972,6 +1908,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Yahoo News2023-12-14",
         "pollster": "Yahoo News",
         "range": "12/14 - 12/18",
         "starts": "2023-12-14",
@@ -1989,6 +1926,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Harvard-Harris2023-12-13",
         "pollster": "Harvard-Harris",
         "range": "12/13 - 12/14",
         "starts": "2023-12-13",
@@ -2006,6 +1944,7 @@
         "leadingBy": 4
     },
     {
+        "key": "NY Times/Siena2023-12-10",
         "pollster": "NY Times/Siena",
         "range": "12/10 - 12/14",
         "starts": "2023-12-10",
@@ -2023,6 +1962,7 @@
         "leadingBy": 2
     },
     {
+        "key": "FOX News2023-12-10",
         "pollster": "FOX News",
         "range": "12/10 - 12/13",
         "starts": "2023-12-10",
@@ -2040,6 +1980,7 @@
         "leadingBy": 4
     },
     {
+        "key": "CNBC2023-12-08",
         "pollster": "CNBC",
         "range": "12/8 - 12/12",
         "starts": "2023-12-08",
@@ -2057,6 +1998,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Economist/YouGov2023-12-09",
         "pollster": "Economist/YouGov",
         "range": "12/9 - 12/12",
         "starts": "2023-12-09",
@@ -2074,6 +2016,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2023-12-08",
         "pollster": "Morning Consult",
         "range": "12/8 - 12/10",
         "starts": "2023-12-08",
@@ -2091,6 +2034,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Rasmussen Reports2023-12-06",
         "pollster": "Rasmussen Reports",
         "range": "12/6 - 12/7",
         "starts": "2023-12-06",
@@ -2108,6 +2052,7 @@
         "leadingBy": 10
     },
     {
+        "key": "NPR/PBS/Marist2023-12-04",
         "pollster": "NPR/PBS/Marist",
         "range": "12/4 - 12/7",
         "starts": "2023-12-04",
@@ -2125,6 +2070,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Emerson2023-12-04",
         "pollster": "Emerson",
         "range": "12/4 - 12/6",
         "starts": "2023-12-04",
@@ -2142,6 +2088,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Economist/YouGov2023-12-02",
         "pollster": "Economist/YouGov",
         "range": "12/2 - 12/5",
         "starts": "2023-12-02",
@@ -2159,6 +2106,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Wall Street Journal2023-11-29",
         "pollster": "Wall Street Journal",
         "range": "11/29 - 12/4",
         "starts": "2023-11-29",
@@ -2176,6 +2124,7 @@
         "leadingBy": 4
     },
     {
+        "key": "The Messenger/HarrisX2023-11-27",
         "pollster": "The Messenger/HarrisX",
         "range": "11/27 - 12/1",
         "starts": "2023-11-27",
@@ -2193,6 +2142,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Morning Consult2022-12-01",
         "pollster": "Morning Consult",
         "range": "12/1 - 12/3",
         "starts": "2022-12-01",
@@ -2210,6 +2160,7 @@
         "leadingBy": 0
     },
     {
+        "key": "I&I/TIPP2022-11-30",
         "pollster": "I&I/TIPP",
         "range": "11/30 - 12/1",
         "starts": "2022-11-30",
@@ -2227,6 +2178,7 @@
         "leadingBy": 2
     },
     {
+        "key": "The Messenger/HarrisX2022-11-22",
         "pollster": "The Messenger/HarrisX",
         "range": "11/22 - 11/28",
         "starts": "2022-11-22",
@@ -2244,6 +2196,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Economist/YouGov2022-11-25",
         "pollster": "Economist/YouGov",
         "range": "11/25 - 11/27",
         "starts": "2022-11-25",
@@ -2261,6 +2214,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Morning Consult2022-11-24",
         "pollster": "Morning Consult",
         "range": "11/24 - 11/26",
         "starts": "2022-11-24",
@@ -2278,6 +2232,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Emerson2022-11-17",
         "pollster": "Emerson",
         "range": "11/17 - 11/20",
         "starts": "2022-11-17",
@@ -2295,6 +2250,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Morning Consult2022-11-17",
         "pollster": "Morning Consult",
         "range": "11/17 - 11/19",
         "starts": "2022-11-17",
@@ -2312,6 +2268,7 @@
         "leadingBy": 3
     },
     {
+        "key": "The Messenger/HarrisX2022-11-15",
         "pollster": "The Messenger/HarrisX",
         "range": "11/15 - 11/19",
         "starts": "2022-11-15",
@@ -2329,6 +2286,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Harvard-Harris2022-11-15",
         "pollster": "Harvard-Harris",
         "range": "11/15 - 11/16",
         "starts": "2022-11-15",
@@ -2346,6 +2304,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Reuters/Ipsos2022-11-13",
         "pollster": "Reuters/Ipsos",
         "range": "11/13 - 11/14",
         "starts": "2022-11-13",
@@ -2363,6 +2322,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Economist/YouGov2022-11-11",
         "pollster": "Economist/YouGov",
         "range": "11/11 - 11/14",
         "starts": "2022-11-11",
@@ -2380,6 +2340,7 @@
         "leadingBy": 1
     },
     {
+        "key": "NBC News2022-11-10",
         "pollster": "NBC News",
         "range": "11/10 - 11/14",
         "starts": "2022-11-10",
@@ -2397,6 +2358,7 @@
         "leadingBy": 2
     },
     {
+        "key": "FOX News2022-11-10",
         "pollster": "FOX News",
         "range": "11/10 - 11/13",
         "starts": "2022-11-10",
@@ -2414,6 +2376,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Quinnipiac2022-11-09",
         "pollster": "Quinnipiac",
         "range": "11/9 - 11/13",
         "starts": "2022-11-09",
@@ -2431,6 +2394,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Yahoo News2022-11-09",
         "pollster": "Yahoo News",
         "range": "11/9 - 11/13",
         "starts": "2022-11-09",
@@ -2448,6 +2412,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Morning Consult2022-11-10",
         "pollster": "Morning Consult",
         "range": "11/10 - 11/12",
         "starts": "2022-11-10",
@@ -2465,6 +2430,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Rasmussen Reports2022-11-08",
         "pollster": "Rasmussen Reports",
         "range": "11/8 - 11/12",
         "starts": "2022-11-08",
@@ -2482,6 +2448,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Marquette2022-11-02",
         "pollster": "Marquette",
         "range": "11/2 - 11/7",
         "starts": "2022-11-02",
@@ -2499,6 +2466,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Morning Consult2022-11-03",
         "pollster": "Morning Consult",
         "range": "11/3 - 11/5",
         "starts": "2022-11-03",
@@ -2516,6 +2484,7 @@
         "leadingBy": 2
     },
     {
+        "key": "I&I/TIPP2022-11-01",
         "pollster": "I&I/TIPP",
         "range": "11/1 - 11/3",
         "starts": "2022-11-01",
@@ -2533,6 +2502,7 @@
         "leadingBy": 2
     },
     {
+        "key": "CBS News2022-10-30",
         "pollster": "CBS News",
         "range": "10/30 - 11/2",
         "starts": "2022-10-30",
@@ -2550,6 +2520,7 @@
         "leadingBy": 3
     },
     {
+        "key": "The Messenger/HarrisX2022-10-30",
         "pollster": "The Messenger/HarrisX",
         "range": "10/30 - 11/1",
         "starts": "2022-10-30",
@@ -2567,6 +2538,7 @@
         "leadingBy": 2
     },
     {
+        "key": "CNN2022-10-27",
         "pollster": "CNN",
         "range": "10/27 - 11/2",
         "starts": "2022-10-27",
@@ -2584,6 +2556,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Economist/YouGov2022-10-28",
         "pollster": "Economist/YouGov",
         "range": "10/28 - 10/31",
         "starts": "2022-10-28",
@@ -2601,6 +2574,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Quinnipiac2022-10-26",
         "pollster": "Quinnipiac",
         "range": "10/26 - 10/30",
         "starts": "2022-10-26",
@@ -2618,6 +2592,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Morning Consult2022-10-27",
         "pollster": "Morning Consult",
         "range": "10/27 - 10/29",
         "starts": "2022-10-27",
@@ -2635,6 +2610,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Harvard-Harris2022-10-18",
         "pollster": "Harvard-Harris",
         "range": "10/18 - 10/19",
         "starts": "2022-10-18",
@@ -2652,6 +2628,7 @@
         "leadingBy": 4
     },
     {
+        "key": "USA Today/Suffolk2022-10-17",
         "pollster": "USA Today/Suffolk",
         "range": "10/17 - 10/20",
         "starts": "2022-10-17",
@@ -2669,6 +2646,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2022-10-20",
         "pollster": "Morning Consult",
         "range": "10/20 - 10/22",
         "starts": "2022-10-20",
@@ -2686,6 +2664,7 @@
         "leadingBy": 0
     },
     {
+        "key": "The Messenger/HarrisX2022-10-16",
         "pollster": "The Messenger/HarrisX",
         "range": "10/16 - 10/23",
         "starts": "2022-10-16",
@@ -2703,6 +2682,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Emerson2022-10-16",
         "pollster": "Emerson",
         "range": "10/16 - 10/17",
         "starts": "2022-10-16",
@@ -2720,6 +2700,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Yahoo News2022-10-12",
         "pollster": "Yahoo News",
         "range": "10/12 - 10/16",
         "starts": "2022-10-12",
@@ -2737,6 +2718,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Grinnell/Selzer2022-10-10",
         "pollster": "Grinnell/Selzer",
         "range": "10/10 - 10/15",
         "starts": "2022-10-10",
@@ -2754,6 +2736,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Economist/YouGov2022-10-14",
         "pollster": "Economist/YouGov",
         "range": "10/14 - 10/17",
         "starts": "2022-10-14",
@@ -2771,6 +2754,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Morning Consult2022-10-13",
         "pollster": "Morning Consult",
         "range": "10/13 - 10/15",
         "starts": "2022-10-13",
@@ -2788,6 +2772,7 @@
         "leadingBy": 2
     },
     {
+        "key": "CNBC2022-10-11",
         "pollster": "CNBC",
         "range": "10/11 - 10/15",
         "starts": "2022-10-11",
@@ -2805,6 +2790,7 @@
         "leadingBy": 4
     },
     {
+        "key": "NPR/PBS/Marist2022-10-11",
         "pollster": "NPR/PBS/Marist",
         "range": "10/11 - 10/11",
         "starts": "2022-10-11",
@@ -2822,6 +2808,7 @@
         "leadingBy": 3
     },
     {
+        "key": "FOX News2022-10-06",
         "pollster": "FOX News",
         "range": "10/6 - 10/9",
         "starts": "2022-10-06",
@@ -2839,6 +2826,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Morning Consult2022-10-06",
         "pollster": "Morning Consult",
         "range": "10/6 - 10/8",
         "starts": "2022-10-06",
@@ -2856,6 +2844,7 @@
         "leadingBy": 1
     },
     {
+        "key": "The Messenger/HarrisX2022-10-04",
         "pollster": "The Messenger/HarrisX",
         "range": "10/4 - 10/7",
         "starts": "2022-10-04",
@@ -2873,6 +2862,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Reuters/Ipsos2022-10-03",
         "pollster": "Reuters/Ipsos",
         "range": "10/3 - 10/4",
         "starts": "2022-10-03",
@@ -2890,6 +2880,7 @@
         "leadingBy": 1
     },
     {
+        "key": "SurveyUSA2022-09-30",
         "pollster": "SurveyUSA",
         "range": "9/30 - 10/3",
         "starts": "2022-09-30",
@@ -2907,6 +2898,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2022-09-29",
         "pollster": "Morning Consult",
         "range": "9/29 - 10/1",
         "starts": "2022-09-29",
@@ -2924,6 +2916,7 @@
         "leadingBy": 0
     },
     {
+        "key": "The Messenger/HarrisX2022-09-28",
         "pollster": "The Messenger/HarrisX",
         "range": "9/28 - 9/29",
         "starts": "2022-09-28",
@@ -2941,6 +2934,7 @@
         "leadingBy": 3
     },
     {
+        "key": "I&I/TIPP2022-09-27",
         "pollster": "I&I/TIPP",
         "range": "9/27 - 9/29",
         "starts": "2022-09-27",
@@ -2958,6 +2952,7 @@
         "leadingBy": 0
     },
     {
+        "key": "New York Post2022-09-27",
         "pollster": "New York Post",
         "range": "9/27 - 9/28",
         "starts": "2022-09-27",
@@ -2975,6 +2970,7 @@
         "leadingBy": 3
     },
     {
+        "key": "NPR/PBS/Marist2022-09-25",
         "pollster": "NPR/PBS/Marist",
         "range": "9/25 - 9/28",
         "starts": "2022-09-25",
@@ -2992,6 +2988,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Economist/YouGov2022-09-23",
         "pollster": "Economist/YouGov",
         "range": "9/23 - 9/26",
         "starts": "2022-09-23",
@@ -3009,6 +3006,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Morning Consult2022-09-22",
         "pollster": "Morning Consult",
         "range": "9/22 - 9/24",
         "starts": "2022-09-22",
@@ -3026,6 +3024,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Marquette2022-09-18",
         "pollster": "Marquette",
         "range": "9/18 - 9/25",
         "starts": "2022-09-18",
@@ -3043,6 +3042,7 @@
         "leadingBy": 3
     },
     {
+        "key": "ABC News/Wash Post2022-09-15",
         "pollster": "ABC News/Wash Post",
         "range": "9/15 - 9/20",
         "starts": "2022-09-15",
@@ -3060,6 +3060,7 @@
         "leadingBy": 10
     },
     {
+        "key": "NBC News2022-09-15",
         "pollster": "NBC News",
         "range": "9/15 - 9/19",
         "starts": "2022-09-15",
@@ -3077,6 +3078,7 @@
         "leadingBy": 0
     },
     {
+        "key": "The Messenger/HarrisX2022-09-13",
         "pollster": "The Messenger/HarrisX",
         "range": "9/13 - 9/19",
         "starts": "2022-09-13",
@@ -3094,6 +3096,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Emerson2022-09-17",
         "pollster": "Emerson",
         "range": "9/17 - 9/18",
         "starts": "2022-09-17",
@@ -3111,6 +3114,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Yahoo News2022-09-14",
         "pollster": "Yahoo News",
         "range": "9/14 - 9/18",
         "starts": "2022-09-14",
@@ -3128,6 +3132,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2022-09-15",
         "pollster": "Morning Consult",
         "range": "9/15 - 9/17",
         "starts": "2022-09-15",
@@ -3145,6 +3150,7 @@
         "leadingBy": 0
     },
     {
+        "key": "CBS News2022-09-12",
         "pollster": "CBS News",
         "range": "9/12 - 9/15",
         "starts": "2022-09-12",
@@ -3162,6 +3168,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Harvard-Harris2022-09-12",
         "pollster": "Harvard-Harris",
         "range": "9/12 - 9/14",
         "starts": "2022-09-12",
@@ -3179,6 +3186,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Rasmussen Reports2022-09-11",
         "pollster": "Rasmussen Reports",
         "range": "9/11 - 9/13",
         "starts": "2022-09-11",
@@ -3196,6 +3204,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Economist/YouGov2022-09-10",
         "pollster": "Economist/YouGov",
         "range": "9/10 - 9/12",
         "starts": "2022-09-10",
@@ -3213,6 +3222,7 @@
         "leadingBy": 1
     },
     {
+        "key": "FOX News2022-09-09",
         "pollster": "FOX News",
         "range": "9/9 - 9/12",
         "starts": "2022-09-09",
@@ -3230,6 +3240,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Quinnipiac2022-09-07",
         "pollster": "Quinnipiac",
         "range": "9/7 - 9/11",
         "starts": "2022-09-07",
@@ -3247,6 +3258,7 @@
         "leadingBy": 1
     },
     {
+        "key": "The Messenger/HarrisX2022-09-06",
         "pollster": "The Messenger/HarrisX",
         "range": "9/6 - 9/11",
         "starts": "2022-09-06",
@@ -3264,6 +3276,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Morning Consult2022-09-08",
         "pollster": "Morning Consult",
         "range": "9/8 - 9/10",
         "starts": "2022-09-08",
@@ -3281,6 +3294,7 @@
         "leadingBy": 2
     },
     {
+        "key": "CNN2022-08-25",
         "pollster": "CNN",
         "range": "8/25 - 8/31",
         "starts": "2022-08-25",
@@ -3298,6 +3312,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Wall Street Journal2022-08-24",
         "pollster": "Wall Street Journal",
         "range": "8/24 - 8/30",
         "starts": "2022-08-24",
@@ -3315,6 +3330,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2022-09-02",
         "pollster": "Morning Consult",
         "range": "9/2 - 9/4",
         "starts": "2022-09-02",
@@ -3332,6 +3348,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Economist/YouGov2022-08-26",
         "pollster": "Economist/YouGov",
         "range": "8/26 - 8/29",
         "starts": "2022-08-26",
@@ -3349,6 +3366,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Morning Consult2022-08-25",
         "pollster": "Morning Consult",
         "range": "8/25 - 8/27",
         "starts": "2022-08-25",
@@ -3366,6 +3384,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Emerson2022-08-25",
         "pollster": "Emerson",
         "range": "8/25 - 8/26",
         "starts": "2022-08-25",
@@ -3383,6 +3402,7 @@
         "leadingBy": 2
     },
     {
+        "key": "The Messenger/HarrisX2022-08-24",
         "pollster": "The Messenger/HarrisX",
         "range": "8/24 - 8/26",
         "starts": "2022-08-24",
@@ -3400,6 +3420,7 @@
         "leadingBy": 1
     },
     {
+        "key": "New York Post2022-08-23",
         "pollster": "New York Post",
         "range": "8/23 - 8/24",
         "starts": "2022-08-23",
@@ -3417,6 +3438,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Yahoo News2022-08-17",
         "pollster": "Yahoo News",
         "range": "8/17 - 8/21",
         "starts": "2022-08-17",
@@ -3434,6 +3456,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Morning Consult2022-08-18",
         "pollster": "Morning Consult",
         "range": "8/18 - 8/20",
         "starts": "2022-08-18",
@@ -3451,6 +3474,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Emerson2022-08-16",
         "pollster": "Emerson",
         "range": "8/16 - 8/17",
         "starts": "2022-08-16",
@@ -3468,6 +3492,7 @@
         "leadingBy": 0
     },
     {
+        "key": "FOX News2022-08-11",
         "pollster": "FOX News",
         "range": "8/11 - 8/14",
         "starts": "2022-08-11",
@@ -3485,6 +3510,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Quinnipiac2022-08-10",
         "pollster": "Quinnipiac",
         "range": "8/10 - 8/14",
         "starts": "2022-08-10",
@@ -3502,6 +3528,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Marist2022-08-11",
         "pollster": "Marist",
         "range": "8/11 - 8/14",
         "starts": "2022-08-11",
@@ -3519,6 +3546,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Economist/YouGov2022-08-12",
         "pollster": "Economist/YouGov",
         "range": "8/12 - 8/15",
         "starts": "2022-08-12",
@@ -3536,6 +3564,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Morning Consult2022-08-11",
         "pollster": "Morning Consult",
         "range": "8/11 - 8/13",
         "starts": "2022-08-11",
@@ -3553,6 +3582,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Morning Consult2022-08-04",
         "pollster": "Morning Consult",
         "range": "8/4 - 8/6",
         "starts": "2022-08-04",
@@ -3570,6 +3600,7 @@
         "leadingBy": 1
     },
     {
+        "key": "InsiderAdvantage2022-07-31",
         "pollster": "InsiderAdvantage",
         "range": "7/31 - 8/1",
         "starts": "2022-07-31",
@@ -3587,6 +3618,7 @@
         "leadingBy": 1
     },
     {
+        "key": "NY Times/Siena2022-07-23",
         "pollster": "NY Times/Siena",
         "range": "7/23 - 7/27",
         "starts": "2022-07-23",
@@ -3604,6 +3636,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2022-07-28",
         "pollster": "Morning Consult",
         "range": "7/28 - 7/30",
         "starts": "2022-07-28",
@@ -3621,6 +3654,7 @@
         "leadingBy": 3
     },
     {
+        "key": "The Messenger/HarrisX2022-07-21",
         "pollster": "The Messenger/HarrisX",
         "range": "7/21 - 7/24",
         "starts": "2022-07-21",
@@ -3638,6 +3672,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Economist/YouGov2022-07-22",
         "pollster": "Economist/YouGov",
         "range": "7/22 - 7/25",
         "starts": "2022-07-22",
@@ -3655,6 +3690,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Morning Consult2022-07-21",
         "pollster": "Morning Consult",
         "range": "7/21 - 7/23",
         "starts": "2022-07-21",
@@ -3672,6 +3708,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Harvard-Harris2022-07-19",
         "pollster": "Harvard-Harris",
         "range": "7/19 - 7/20",
         "starts": "2022-07-19",
@@ -3689,6 +3726,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Quinnipiac2022-07-13",
         "pollster": "Quinnipiac",
         "range": "7/13 - 7/17",
         "starts": "2022-07-13",
@@ -3706,6 +3744,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Yahoo News2022-07-13",
         "pollster": "Yahoo News",
         "range": "7/13 - 7/17",
         "starts": "2022-07-13",
@@ -3723,6 +3762,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Morning Consult2022-07-14",
         "pollster": "Morning Consult",
         "range": "7/14 - 7/16",
         "starts": "2022-07-14",
@@ -3740,6 +3780,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Marquette2022-07-07",
         "pollster": "Marquette",
         "range": "7/7 - 7/12",
         "starts": "2022-07-07",
@@ -3757,6 +3798,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Morning Consult2022-07-07",
         "pollster": "Morning Consult",
         "range": "7/7 - 7/9",
         "starts": "2022-07-07",
@@ -3774,6 +3816,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Economist/YouGov2022-07-08",
         "pollster": "Economist/YouGov",
         "range": "7/8 - 7/11",
         "starts": "2022-07-08",
@@ -3791,6 +3834,7 @@
         "leadingBy": 0
     },
     {
+        "key": "The Messenger/HarrisX2022-07-05",
         "pollster": "The Messenger/HarrisX",
         "range": "7/5 - 7/6",
         "starts": "2022-07-05",
@@ -3808,6 +3852,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Economist/YouGov2022-06-24",
         "pollster": "Economist/YouGov",
         "range": "6/24 - 6/27",
         "starts": "2022-06-24",
@@ -3825,6 +3870,7 @@
         "leadingBy": 4
     },
     {
+        "key": "The Messenger/HarrisX2022-06-19",
         "pollster": "The Messenger/HarrisX",
         "range": "6/19 - 6/23",
         "starts": "2022-06-19",
@@ -3842,6 +3888,7 @@
         "leadingBy": 2
     },
     {
+        "key": "NBC News2022-06-16",
         "pollster": "NBC News",
         "range": "6/16 - 6/20",
         "starts": "2022-06-16",
@@ -3859,6 +3906,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Emerson2022-06-19",
         "pollster": "Emerson",
         "range": "6/19 - 6/20",
         "starts": "2022-06-19",
@@ -3876,6 +3924,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Yahoo News2022-06-16",
         "pollster": "Yahoo News",
         "range": "6/16 - 6/20",
         "starts": "2022-06-16",
@@ -3893,6 +3942,7 @@
         "leadingBy": 4
     },
     {
+        "key": "The Messenger/HarrisX2022-06-15",
         "pollster": "The Messenger/HarrisX",
         "range": "6/15 - 6/16",
         "starts": "2022-06-15",
@@ -3910,6 +3960,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Harvard-Harris2022-06-14",
         "pollster": "Harvard-Harris",
         "range": "6/14 - 6/15",
         "starts": "2022-06-14",
@@ -3927,6 +3978,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Rasmussen Reports2022-06-12",
         "pollster": "Rasmussen Reports",
         "range": "6/12 - 6/14",
         "starts": "2022-06-12",
@@ -3944,6 +3996,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Economist/YouGov2022-06-10",
         "pollster": "Economist/YouGov",
         "range": "6/10 - 6/13",
         "starts": "2022-06-10",
@@ -3961,6 +4014,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Quinnipiac2022-06-08",
         "pollster": "Quinnipiac",
         "range": "6/8 - 6/12",
         "starts": "2022-06-08",
@@ -3978,6 +4032,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Economist/YouGov2022-05-27",
         "pollster": "Economist/YouGov",
         "range": "5/27 - 5/31",
         "starts": "2022-05-27",
@@ -3995,6 +4050,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Yahoo News**2022-05-25",
         "pollster": "Yahoo News**",
         "range": "5/25 - 5/30",
         "starts": "2022-05-25",
@@ -4012,6 +4068,7 @@
         "leadingBy": 7
     },
     {
+        "key": "Quinnipiac2022-05-18",
         "pollster": "Quinnipiac",
         "range": "5/18 - 5/22",
         "starts": "2022-05-18",
@@ -4029,6 +4086,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Harvard-Harris2022-05-17",
         "pollster": "Harvard-Harris",
         "range": "5/17 - 5/18",
         "starts": "2022-05-17",
@@ -4046,6 +4104,7 @@
         "leadingBy": 7
     },
     {
+        "key": "Economist/YouGov2022-05-13",
         "pollster": "Economist/YouGov",
         "range": "5/13 - 5/16",
         "starts": "2022-05-13",
@@ -4063,6 +4122,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Marquette2022-05-08",
         "pollster": "Marquette",
         "range": "5/8 - 5/18",
         "starts": "2022-05-08",
@@ -4080,6 +4140,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Yahoo News**2022-05-05",
         "pollster": "Yahoo News**",
         "range": "5/5 - 5/8",
         "starts": "2022-05-05",
@@ -4097,6 +4158,7 @@
         "leadingBy": 2
     },
     {
+        "key": "ABC News/Wash Post2022-04-28",
         "pollster": "ABC News/Wash Post",
         "range": "4/28 - 5/3",
         "starts": "2022-04-28",
@@ -4114,6 +4176,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Economist/YouGov2022-04-29",
         "pollster": "Economist/YouGov",
         "range": "4/29 - 5/2",
         "starts": "2022-04-29",
@@ -4131,6 +4194,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Emerson2022-04-24",
         "pollster": "Emerson",
         "range": "4/24 - 4/25",
         "starts": "2022-04-24",
@@ -4148,6 +4212,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Harvard-Harris2022-04-18",
         "pollster": "Harvard-Harris",
         "range": "4/18 - 4/19",
         "starts": "2022-04-18",
@@ -4165,6 +4230,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Wall Street Journal2022-04-11",
         "pollster": "Wall Street Journal",
         "range": "4/11 - 4/17",
         "starts": "2022-04-11",
@@ -4182,6 +4248,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Economist/YouGov2022-04-15",
         "pollster": "Economist/YouGov",
         "range": "4/15 - 4/18",
         "starts": "2022-04-15",
@@ -4199,6 +4266,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Yahoo News**2022-04-14",
         "pollster": "Yahoo News**",
         "range": "4/14 - 4/17",
         "starts": "2022-04-14",
@@ -4216,6 +4284,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Economist/YouGov2022-04-08",
         "pollster": "Economist/YouGov",
         "range": "4/8 - 4/11",
         "starts": "2022-04-08",
@@ -4233,6 +4302,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Rasmussen Reports2022-03-30",
         "pollster": "Rasmussen Reports",
         "range": "3/30 - 4/3",
         "starts": "2022-03-30",
@@ -4250,6 +4320,7 @@
         "leadingBy": 7
     },
     {
+        "key": "Economist/YouGov2022-04-01",
         "pollster": "Economist/YouGov",
         "range": "4/1 - 4/4",
         "starts": "2022-04-01",
@@ -4267,6 +4338,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Yahoo News**2022-03-30",
         "pollster": "Yahoo News**",
         "range": "3/30 - 3/31",
         "starts": "2022-03-30",
@@ -4284,6 +4356,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Quinnipiac2022-03-23",
         "pollster": "Quinnipiac",
         "range": "3/23 - 3/27",
         "starts": "2022-03-23",
@@ -4301,6 +4374,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Harvard-Harris2022-03-22",
         "pollster": "Harvard-Harris",
         "range": "3/22 - 3/23",
         "starts": "2022-03-22",
@@ -4318,6 +4392,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Yahoo News**2022-03-16",
         "pollster": "Yahoo News**",
         "range": "3/16 - 3/20",
         "starts": "2022-03-16",
@@ -4335,6 +4410,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Marquette2022-03-12",
         "pollster": "Marquette",
         "range": "3/12 - 3/22",
         "starts": "2022-03-12",
@@ -4352,6 +4428,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Quinnipiac2022-03-09",
         "pollster": "Quinnipiac",
         "range": "3/9 - 3/13",
         "starts": "2022-03-09",
@@ -4369,6 +4446,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Yahoo News**2022-02-23",
         "pollster": "Yahoo News**",
         "range": "2/23 - 2/27",
         "starts": "2022-02-23",
@@ -4386,6 +4464,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Emerson2022-02-24",
         "pollster": "Emerson",
         "range": "2/24 - 2/25",
         "starts": "2022-02-24",
@@ -4403,6 +4482,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Susquehanna2022-02-19",
         "pollster": "Susquehanna",
         "range": "2/19 - 2/26",
         "starts": "2022-02-19",
@@ -4420,6 +4500,7 @@
         "leadingBy": 13
     },
     {
+        "key": "Harvard-Harris2022-02-15",
         "pollster": "Harvard-Harris",
         "range": "2/15 - 2/16",
         "starts": "2022-02-15",
@@ -4437,6 +4518,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Quinnipiac2022-02-09",
         "pollster": "Quinnipiac",
         "range": "2/9 - 2/14",
         "starts": "2022-02-09",
@@ -4454,6 +4536,7 @@
         "leadingBy": 2
     },
     {
+        "key": "PPP (D)2022-02-10",
         "pollster": "PPP (D)",
         "range": "2/10 - 2/11",
         "starts": "2022-02-10",
@@ -4471,6 +4554,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Rasmussen Reports2022-02-08",
         "pollster": "Rasmussen Reports",
         "range": "2/8 - 2/12",
         "starts": "2022-02-08",
@@ -4488,6 +4572,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Reuters/Ipsos2022-02-06",
         "pollster": "Reuters/Ipsos",
         "range": "2/6 - 2/13",
         "starts": "2022-02-06",
@@ -4505,6 +4590,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Yahoo News**2022-02-02",
         "pollster": "Yahoo News**",
         "range": "2/2 - 2/6",
         "starts": "2022-02-02",
@@ -4522,6 +4608,7 @@
         "leadingBy": 6
     },
     {
+        "key": "ABC News/Wash Post2022-01-27",
         "pollster": "ABC News/Wash Post",
         "range": "1/27 - 2/1",
         "starts": "2022-01-27",
@@ -4539,6 +4626,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Emerson2022-01-19",
         "pollster": "Emerson",
         "range": "1/19 - 1/21",
         "starts": "2022-01-19",
@@ -4556,6 +4644,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Harvard-Harris2022-01-18",
         "pollster": "Harvard-Harris",
         "range": "1/18 - 1/19",
         "starts": "2022-01-18",
@@ -4573,6 +4662,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Economist/YouGov2022-01-14",
         "pollster": "Economist/YouGov",
         "range": "1/14 - 1/17",
         "starts": "2022-01-14",
@@ -4590,6 +4680,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Marquette2022-01-09",
         "pollster": "Marquette",
         "range": "1/9 - 1/20",
         "starts": "2022-01-09",
@@ -4607,6 +4698,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Yahoo News**2022-01-12",
         "pollster": "Yahoo News**",
         "range": "1/12 - 1/16",
         "starts": "2022-01-12",
@@ -4624,6 +4716,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Data for Progress (D)**2021-12-22",
         "pollster": "Data for Progress (D)**",
         "range": "12/22 - 12/29",
         "starts": "2021-12-22",
@@ -4641,6 +4734,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Harvard-Harris2021-12-14",
         "pollster": "Harvard-Harris",
         "range": "12/14 - 12/15",
         "starts": "2021-12-14",
@@ -4658,6 +4752,7 @@
         "leadingBy": 5
     },
     {
+        "key": "USA Today/Suffolk2021-12-07",
         "pollster": "USA Today/Suffolk",
         "range": "12/7 - 12/11",
         "starts": "2021-12-07",
@@ -4675,6 +4770,7 @@
         "leadingBy": 7
     },
     {
+        "key": "Wall Street Journal2021-12-03",
         "pollster": "Wall Street Journal",
         "range": "12/3 - 12/7",
         "starts": "2021-12-03",
@@ -4692,6 +4788,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Emerson2021-11-18",
         "pollster": "Emerson",
         "range": "11/18 - 11/19",
         "starts": "2021-11-18",
@@ -4709,6 +4806,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Harvard-Harris2021-11-16",
         "pollster": "Harvard-Harris",
         "range": "11/16 - 11/17",
         "starts": "2021-11-16",
@@ -4726,6 +4824,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Wall Street Journal2021-10-22",
         "pollster": "Wall Street Journal",
         "range": "10/22 - 10/26",
         "starts": "2021-10-22",
@@ -4743,6 +4842,7 @@
         "leadingBy": 0
     },
     {
+        "key": "USA Today/Suffolk2021-10-19",
         "pollster": "USA Today/Suffolk",
         "range": "10/19 - 10/24",
         "starts": "2021-10-19",
@@ -4760,6 +4860,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Emerson2021-10-18",
         "pollster": "Emerson",
         "range": "10/18 - 10/19",
         "starts": "2021-10-18",
@@ -4777,6 +4878,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Rasmussen Reports2021-10-12",
         "pollster": "Rasmussen Reports",
         "range": "10/12 - 10/13",
         "starts": "2021-10-12",
@@ -4794,6 +4896,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Harvard-Harris2021-10-12",
         "pollster": "Harvard-Harris",
         "range": "10/12 - 10/13",
         "starts": "2021-10-12",
@@ -4811,6 +4914,7 @@
         "leadingBy": 2
     },
     {
+        "key": "NY Times/Siena2021-10-09",
         "pollster": "NY Times/Siena",
         "range": "10/9 - 10/12",
         "starts": "2021-10-09",
@@ -4828,6 +4932,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Federalist/Susquehanna2021-10-04",
         "pollster": "Federalist/Susquehanna",
         "range": "10/4 - 10/11",
         "starts": "2021-10-04",
@@ -4845,6 +4950,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Emerson2021-09-20",
         "pollster": "Emerson",
         "range": "9/20 - 9/21",
         "starts": "2021-09-20",
@@ -4862,6 +4968,7 @@
         "leadingBy": 1
     },
     {
+        "key": "ABC News/Wash Post2021-09-18",
         "pollster": "ABC News/Wash Post",
         "range": "9/18 - 9/21",
         "starts": "2021-09-18",
@@ -4879,6 +4986,7 @@
         "leadingBy": 2
     },
     {
+        "key": "NY Times/Siena2021-09-06",
         "pollster": "NY Times/Siena",
         "range": "9/6 - 9/14",
         "starts": "2021-09-06",
@@ -4896,6 +5004,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Harvard-Harris2021-09-07",
         "pollster": "Harvard-Harris",
         "range": "9/7 - 9/8",
         "starts": "2021-09-07",
@@ -4913,6 +5022,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Emerson2021-08-23",
         "pollster": "Emerson",
         "range": "8/23 - 8/24",
         "starts": "2021-08-23",
@@ -4930,6 +5040,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Wall Street Journal2021-08-17",
         "pollster": "Wall Street Journal",
         "range": "8/17 - 8/25",
         "starts": "2021-08-17",
@@ -4947,6 +5058,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Harvard-Harris2021-07-27",
         "pollster": "Harvard-Harris",
         "range": "7/27 - 7/28",
         "starts": "2021-07-27",
@@ -4964,6 +5076,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Rasmussen Reports2021-07-26",
         "pollster": "Rasmussen Reports",
         "range": "7/26 - 7/27",
         "starts": "2021-07-26",
@@ -4981,6 +5094,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Emerson2021-07-19",
         "pollster": "Emerson",
         "range": "7/19 - 7/20",
         "starts": "2021-07-19",
@@ -4998,6 +5112,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Trafalgar Group (R)2021-07-11",
         "pollster": "Trafalgar Group (R)",
         "range": "7/11 - 7/14",
         "starts": "2021-07-11",
@@ -5015,6 +5130,7 @@
         "leadingBy": 5
     },
     {
+        "key": "NY Times/Siena2021-07-05",
         "pollster": "NY Times/Siena",
         "range": "7/5 - 7/7",
         "starts": "2021-07-05",
@@ -5032,6 +5148,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Harvard-Harris2021-06-28",
         "pollster": "Harvard-Harris",
         "range": "6/28 - 6/29",
         "starts": "2021-06-28",
@@ -5049,6 +5166,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Emerson2021-06-28",
         "pollster": "Emerson",
         "range": "6/28 - 6/29",
         "starts": "2021-06-28",
@@ -5066,6 +5184,7 @@
         "leadingBy": 5
     },
     {
+        "key": "Emerson2021-05-24",
         "pollster": "Emerson",
         "range": "5/24 - 5/25",
         "starts": "2021-05-24",
@@ -5083,6 +5202,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Harvard-Harris2021-05-18",
         "pollster": "Harvard-Harris",
         "range": "5/18 - 5/19",
         "starts": "2021-05-18",
@@ -5100,6 +5220,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Emerson2021-04-25",
         "pollster": "Emerson",
         "range": "4/25 - 4/26",
         "starts": "2021-04-25",
@@ -5117,6 +5238,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Politico/Morning Consult2021-04-22",
         "pollster": "Politico/Morning Consult",
         "range": "4/22 - 4/25",
         "starts": "2021-04-22",
@@ -5134,6 +5256,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Federalist/Susquehanna2021-04-19",
         "pollster": "Federalist/Susquehanna",
         "range": "4/19 - 4/27",
         "starts": "2021-04-19",
@@ -5151,6 +5274,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Insider Advantage2021-04-21",
         "pollster": "Insider Advantage",
         "range": "4/21 - 4/23",
         "starts": "2021-04-21",
@@ -5168,6 +5292,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Harvard-Harris2021-04-20",
         "pollster": "Harvard-Harris",
         "range": "4/20 - 4/21",
         "starts": "2021-04-20",
@@ -5185,6 +5310,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Harvard-Harris2021-03-23",
         "pollster": "Harvard-Harris",
         "range": "3/23 - 3/24",
         "starts": "2021-03-23",
@@ -5202,6 +5328,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Emerson2021-03-18",
         "pollster": "Emerson",
         "range": "3/18 - 3/20",
         "starts": "2021-03-18",
@@ -5219,6 +5346,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Wall Street Journal2021-03-02",
         "pollster": "Wall Street Journal",
         "range": "3/2 - 3/7",
         "starts": "2021-03-02",
@@ -5236,6 +5364,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Harvard-Harris2021-02-23",
         "pollster": "Harvard-Harris",
         "range": "2/23 - 2/24",
         "starts": "2021-02-23",
@@ -5253,6 +5382,7 @@
         "leadingBy": 6
     },
     {
+        "key": "Emerson2021-02-19",
         "pollster": "Emerson",
         "range": "2/19 - 2/20",
         "starts": "2021-02-19",
@@ -5270,6 +5400,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Federalist/Susquehanna2021-02-03",
         "pollster": "Federalist/Susquehanna",
         "range": "2/3 - 2/9",
         "starts": "2021-02-03",
@@ -5287,6 +5418,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Politico/Morning Consult2021-01-22",
         "pollster": "Politico/Morning Consult",
         "range": "1/22 - 1/23",
         "starts": "2021-01-22",
@@ -5304,6 +5436,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Harvard-Harris2021-01-19",
         "pollster": "Harvard-Harris",
         "range": "1/19 - 1/20",
         "starts": "2021-01-19",
@@ -5321,6 +5454,7 @@
         "leadingBy": 6
     },
     {
+        "key": "InsiderAdvantage2020-12-17",
         "pollster": "InsiderAdvantage",
         "range": "12/17 - 12/19",
         "starts": "2020-12-17",
@@ -5338,6 +5472,7 @@
         "leadingBy": 8
     },
     {
+        "key": "Harvard-Harris2020-11-30",
         "pollster": "Harvard-Harris",
         "range": "11/30 - 12/2",
         "starts": "2020-11-30",
@@ -5355,6 +5490,7 @@
         "leadingBy": 3
     },
     {
+        "key": "Rasmussen Reports2020-11-22",
         "pollster": "Rasmussen Reports",
         "range": "11/22 - 11/23",
         "starts": "2020-11-22",
@@ -5372,6 +5508,7 @@
         "leadingBy": 13
     },
     {
+        "key": "Wall Street Journal2020-11-16",
         "pollster": "Wall Street Journal",
         "range": "11/16 - 11/22",
         "starts": "2020-11-16",
@@ -5389,6 +5526,7 @@
         "leadingBy": 1
     },
     {
+        "key": "USA Today/Suffolk2020-11-03",
         "pollster": "USA Today/Suffolk",
         "range": "11/3 - 11/5",
         "starts": "2020-11-03",
@@ -5406,6 +5544,7 @@
         "leadingBy": 4
     },
     {
+        "key": "Emerson2020-11-03",
         "pollster": "Emerson",
         "range": "11/3 - 11/4",
         "starts": "2020-11-03",
@@ -5423,6 +5562,7 @@
         "leadingBy": 2
     },
     {
+        "key": "Harvard-Harris2020-10-26",
         "pollster": "Harvard-Harris",
         "range": "10/26 - 10/28",
         "starts": "2020-10-26",
@@ -5440,6 +5580,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Grinnell/Selzer2020-10-13",
         "pollster": "Grinnell/Selzer",
         "range": "10/13 - 10/17",
         "starts": "2020-10-13",
@@ -5457,6 +5598,7 @@
         "leadingBy": 0
     },
     {
+        "key": "Rasmussen Reports2020-09-21",
         "pollster": "Rasmussen Reports",
         "range": "9/21 - 9/22",
         "starts": "2020-09-21",
@@ -5474,6 +5616,7 @@
         "leadingBy": 10
     },
     {
+        "key": "Emerson2020-08-30",
         "pollster": "Emerson",
         "range": "8/30 - 9/1",
         "starts": "2020-08-30",
@@ -5491,6 +5634,7 @@
         "leadingBy": 1
     },
     {
+        "key": "Rasmussen Reports2020-08-16",
         "pollster": "Rasmussen Reports",
         "range": "8/16 - 8/17",
         "starts": "2020-08-16",

@@ -4,6 +4,27 @@ import fs from 'fs';
 
 dotenv.config();
 
+interface Poll {
+  key: string;
+  pollster: string;
+  range: string;
+  starts: string;
+  ends: string;
+  sample: string;
+  sampleNumber: number;
+  sampleGroup: string;
+  registeredOnly: boolean;
+  likelyOnly: boolean;
+  allPolled: boolean;
+  margin: string;
+  trump: string;
+  biden: string;
+  leading: string;
+  leadingBy: number;
+}
+
+type PollsMap = Map<string, Poll>;
+
 async function fetch() {
   const { browser, page } = await getBrowser();
 
@@ -17,7 +38,7 @@ async function fetch() {
 
   const element = await page.waitForSelector('table.w-full tbody');
 
-  let polls = [];
+  let polls: PollsMap = new Map();
   if (element) {
     const rows = await page.evaluate(() => {
       const rows = Array.from(
@@ -35,6 +56,7 @@ async function fetch() {
     let year = 2024;
     let lastMonth = 0;
 
+    
     for (const row of rows) {
       const range = row[1].split(' - ');
       const rangeStart = range[0].split('/');
@@ -66,7 +88,8 @@ async function fetch() {
         sampleGroup = sampleSplits[0];
       }
 
-      let poll = {
+      let poll: Poll = {
+        key: row[0] + starts.toISOString().slice(0, 10),
         pollster: row[0],
         range: row[1],
         starts: starts.toISOString().slice(0, 10),
@@ -83,13 +106,15 @@ async function fetch() {
         leading: spreadSplit[0],
         leadingBy: +spreadSplit[1] || 0,
       };
-      polls.push(poll);
+      if (!polls.has(poll.key)) {
+        polls.set(poll.key, poll);
+      }
     }
   }
 
   browser.close();
 
-  return polls;
+  return [...polls.values()];
 }
 
 console.log('Fetching data...');
