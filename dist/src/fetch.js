@@ -1,6 +1,8 @@
 import getBrowser from './browser.js';
 import dotenv from 'dotenv';
 import fs from 'fs';
+import { db } from '../drizzle/db.js';
+import { PollsTable } from '../drizzle/schema.js';
 dotenv.config();
 async function fetch() {
     const { browser, page } = await getBrowser();
@@ -77,5 +79,9 @@ let polls = await fetch();
 let filename = process.argv[2] || 'polls.json';
 console.log(`Writing data to ${filename} ...`);
 fs.writeFileSync(filename, JSON.stringify(polls, null, 4));
+await db.delete(PollsTable);
+for (let poll of polls) {
+    await db.insert(PollsTable).values(poll);
+}
 console.log('Done!');
 //# sourceMappingURL=fetch.js.map

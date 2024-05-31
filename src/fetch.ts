@@ -2,6 +2,9 @@ import getBrowser from './browser.js';
 import dotenv from 'dotenv';
 import fs from 'fs';
 
+import { db } from '../drizzle/db.js';
+import { PollsTable } from '../drizzle/schema.js';
+
 dotenv.config();
 
 interface Poll {
@@ -124,5 +127,14 @@ let polls = await fetch();
 let filename = process.argv[2] || 'polls.json';
 console.log(`Writing data to ${filename} ...`);
 fs.writeFileSync(filename, JSON.stringify(polls, null, 4));
+
+// store to database
+
+await db.delete(PollsTable);
+
+for (let poll of polls) {
+  await db.insert(PollsTable).values(poll);  
+}
+
 
 console.log('Done!');

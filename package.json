@@ -4,7 +4,9 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "db:studio": "drizzle-kit studio "
   },
   "keywords": [],
   "author": "",
@@ -12,7 +14,13 @@
   "description": "",
   "dependencies": {
     "@types/puppeteer": "^7.0.4",
+    "better-sqlite3": "^11.0.0",
     "dotenv": "^16.4.5",
+    "drizzle-orm": "^0.31.0",
     "puppeteer": "^22.10.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.10",
+    "drizzle-kit": "^0.22.1"
   }
 }
