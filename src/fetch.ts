@@ -129,7 +129,6 @@ console.log(`Writing data to ${filename} ...`);
 fs.writeFileSync(filename, JSON.stringify(polls, null, 4));
 
 // store to database
-
 await db.delete(PollsTable);
 
 for (let poll of polls) {
