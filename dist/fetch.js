@@ -1,8 +1,8 @@
 import getBrowser from './browser.js';
 import dotenv from 'dotenv';
 import fs from 'fs';
-import { db } from '../drizzle/db.js';
-import { PollsTable } from '../drizzle/schema.js';
+import { db } from './drizzle/db.js';
+import { PollsTable } from './drizzle/schema.js';
 dotenv.config();
 async function fetch() {
     const { browser, page } = await getBrowser();

@@ -2,8 +2,8 @@ import getBrowser from './browser.js';
 import dotenv from 'dotenv';
 import fs from 'fs';
 
-import { db } from '../drizzle/db.js';
-import { PollsTable } from '../drizzle/schema.js';
+import { db } from './drizzle/db.js';
+import { PollsTable } from './drizzle/schema.js';
 
 dotenv.config();
 
@@ -65,7 +65,7 @@ async function fetch() {
       const rangeStart = range[0].split('/');
       const rangeEnd = range[1].split('/');
 
-      if (range[0].startsWith('12')) {
+      if ( range[0].startsWith('12') ) {
         if (lastMonth !== +rangeStart[0]) {
           year--;
         }
