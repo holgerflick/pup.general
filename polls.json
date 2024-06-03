@@ -1,23 +1,5 @@
 [
     {
-        "key": "RCP Average2024-05-06",
-        "pollster": "RCP Average",
-        "range": "5/6 - 5/31",
-        "starts": "2024-05-06",
-        "ends": "2024-05-31",
-        "sample": "—",
-        "sampleNumber": 0,
-        "sampleGroup": "—",
-        "registeredOnly": false,
-        "likelyOnly": false,
-        "allPolled": false,
-        "margin": "—",
-        "trump": "47.2",
-        "biden": "46.4",
-        "leading": "Trump",
-        "leadingBy": 0.8
-    },
-    {
         "key": "Forbes/HarrisX2024-05-30",
         "pollster": "Forbes/HarrisX",
         "range": "5/30 - 5/31",

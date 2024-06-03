@@ -2,10 +2,12 @@ import getBrowser from './browser.js';
 import dotenv from 'dotenv';
 import fs from 'fs';
 
-import { db } from './drizzle/db.js';
-import { PollsTable } from './drizzle/schema.js';
+import { db } from '../db/db.js';
+import { PollsTable } from '../db/schema.js';
 
 dotenv.config();
+
+const IGNORE_AVERAGE = 'RCP Average';
 
 interface Poll {
   key: string;
@@ -61,6 +63,12 @@ async function fetch() {
 
     
     for (const row of rows) {
+      const pollster = row[0];
+
+      if (pollster === IGNORE_AVERAGE) {
+        continue;
+      }
+
       const range = row[1].split(' - ');
       const rangeStart = range[0].split('/');
       const rangeEnd = range[1].split('/');
@@ -93,7 +101,7 @@ async function fetch() {
 
       let poll: Poll = {
         key: row[0] + starts.toISOString().slice(0, 10),
-        pollster: row[0],
+        pollster,
         range: row[1],
         starts: starts.toISOString().slice(0, 10),
         ends: ends.toISOString().slice(0, 10),
